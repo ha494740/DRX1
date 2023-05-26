@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'Allami'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9DDA4FEB5AFC487CA1E0A0A5CF381ABE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AFE8C14ED3D343C78EE7C0DD3B02AD58 }}
           package: .
